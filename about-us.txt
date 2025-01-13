@@ -1,0 +1,249 @@
+  <!--=================================
+          History -->
+          <section class="space-pt bg-black ellipse-top">
+            <div class="space-pb ellipse-bottom">
+              <div class="container">
+                <div class="row">
+                  <div class="col-lg-5">
+                    <div class="sticky-top" style="top: 80px;">
+                    <div class="section-title mb-0">
+                      <span class="sub-title"><img class="img-fluid" src="images/subtitle-icon.png" alt="" /> Our History</span>
+                      <h2 class="title">Our History</h2>
+                    </div >
+                    <p class="mb-5 mb-lg-0 ms-lg-5">Positive pleasure-oriented goals are much more powerful motivators than negative fear-based ones. Although each is successful separately, the right combination of both is the most powerful motivational force known to humankind.</p>
+                    </div>
+                  </div>
+                  <div class="col-lg-7">
+                    <div class="history-wrapper">
+                      <div class="history-year-sm">2021</div>
+                      <div class="history-info">
+                        <div class="history-year-lg">2021</div>
+                        <div class="history-content">
+                          <p>They often mean leaving the perception of security in order to discover your personal freedom. These are the changes that will bring happiness and satisfaction into your life. Just go there now.</p>
+                          <blockquote>10 years out… having made a decade of changes. Imagine living the life you want to live.</blockquote>
+                          <p>The best way is to develop and follow a plan. Start with your goals in mind and then work backwards to develop the plan. What steps are required to get you to the goals? Make the plan as detailed as possible. Try to visualize and then plan for, every possible setback.</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="history-wrapper mt-4 mb-4">
+                      <div class="history-year-sm">2022</div>
+                      <div class="history-info">
+                        <div class="history-year-lg">2022</div>
+                        <div class="history-content">
+                          <p>They often mean leaving the perception of security in order to discover your personal freedom. These are the changes that will bring happiness and satisfaction into your life. Just go there now.</p>
+                          <blockquote>10 years out… having made a decade of changes. Imagine living the life you want to live.</blockquote>
+                          <p>The best way is to develop and follow a plan. Start with your goals in mind and then work backwards to develop the plan. What steps are required to get you to the goals? Make the plan as detailed as possible. Try to visualize and then plan for, every possible setback.</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="history-wrapper mt-4 mb-4">
+                      <div class="history-year-sm">2023</div>
+                      <div class="history-info">
+                        <div class="history-year-lg">2023</div>
+                        <div class="history-content">
+                          <p>They often mean leaving the perception of security in order to discover your personal freedom. These are the changes that will bring happiness and satisfaction into your life. Just go there now.</p>
+                          <blockquote>10 years out… having made a decade of changes. Imagine living the life you want to live.</blockquote>
+                          <p>The best way is to develop and follow a plan. Start with your goals in mind and then work backwards to develop the plan. What steps are required to get you to the goals? Make the plan as detailed as possible. Try to visualize and then plan for, every possible setback.</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="history-wrapper">
+                      <div class="history-year-sm">2024</div>
+                      <div class="history-info">
+                        <div class="history-year-lg">2024</div>
+                        <div class="history-content">
+                          <p>They often mean leaving the perception of security in order to discover your personal freedom. These are the changes that will bring happiness and satisfaction into your life. Just go there now.</p>
+                          <blockquote>10 years out… having made a decade of changes. Imagine living the life you want to live.</blockquote>
+                          <p>The best way is to develop and follow a plan. Start with your goals in mind and then work backwards to develop the plan. What steps are required to get you to the goals? Make the plan as detailed as possible. Try to visualize and then plan for, every possible setback.</p>
+                        </div>
+                      </div>
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <!--=================================
+          History -->
+
+          <!--=================================
+          Our Staff -->
+            <div class="space-medium-ptb">
+            <div class="container-fluid p-0">
+              <div class="row g-0">
+                <div class="col-md-12">
+                  <div class="marquee-wrapper">
+                    <div class="marquee-inner">
+                      <div class="marquee-item">
+                        <span class="icon"
+                          ><img
+                            class="img-fluid"
+                            src="images/new/automated-loan-origination.png"
+                            alt=""
+                            width="64px"
+                            height="64px"
+                        /></span>
+                        <span class="title">Automated Loan Origination</span>
+                      </div>
+                      <div class="marquee-item">
+                        <span class="icon"
+                          ><img
+                            class="img-fluid"
+                            src="images/new/seamless-crm-integration.png"
+                            alt=""
+                            width="64px"
+                            height="64px"
+                        /></span>
+                        <span class="title">Seamless CRM Integration</span>
+                      </div>
+                      <div class="marquee-item">
+                        <span class="icon"
+                          ><img
+                            class="img-fluid"
+                            src="images/new/hrms-digital-onboarding.png"
+                            alt=""
+                            width="64px"
+                            height="64px"
+                        /></span>
+                        <span class="title">HRMS & Digital Onboarding</span>
+                      </div>
+                      <div class="marquee-item">
+                        <span class="icon"
+                          ><img
+                            class="img-fluid"
+                            src="images/new/real-time-emi-collections.png"
+                            alt=""
+                            width="64px"
+                            height="64px"
+                        /></span>
+                        <span class="title">Real-Time EMI Collections</span>
+                      </div>
+                      <div class="marquee-item">
+                        <span class="icon"
+                          ><img
+                            class="img-fluid"
+                            src="images/new/ceo-dashboard.png"
+                            alt=""
+                            width="64px"
+                            height="64px"
+                        /></span>
+                        <span class="title">CEO Dashboard</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--=================================
+          Our Staff -->
+
+          <!--=================================
+          Our Testimonial -->
+          <section class="space-pt testimonial-section overflow-hidden bg-black ellipse-top">
+            <div class="space-pb ellipse-bottom">
+              <div class="container">
+                <div class="row justify-content-center">
+                  <div class="col-md-10">
+                    <div class="section-title text-center">
+                      <span class="sub-title justify-content-center"><img class="img-fluid" src="images/subtitle-icon.png" alt=""> Our Testimonial</span>
+                      <h2 class="title"> Over 500 clients and 5,000 projects across the globe.</h2>
+                    </div>
+                  </div>
+                </div>
+                <div class="row justify-content-start">
+                  <div class="col-md-11">
+                    <div class="owl-carousel slider-overflow" data-cursor-type="text" data-custom-text="Drag" data-nav-arrow="false" data-items="2" data-lg-items="1" data-md-items="1" data-sm-items="1" data-space="50">
+                      <div class="item">
+                        <div class="testimonial-wrapper testimonial-style-2">
+                          <div class="testimonial-ratings">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-regular fa-star"></i>
+                          </div>
+                          <div class="testimonial-quote"><img class="img-fluid" src="images/quote-icon-01.png" alt="" /></div>
+                          <div class="testimonial-content">
+                            <p>The IT-Hub database has been one of our current sources for recruitment, backed by a very experienced team who would go out of their way to make sure that requests are taken ahead.</p>
+                          </div>
+                          <div class="testimonial-author">
+                            <div class="author-info">
+                              <h6 class="author-name">Key Benefits</h6>
+                              <span class="author-position">Administrator</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="testimonial-wrapper testimonial-style-2">
+                          <div class="testimonial-ratings">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-regular fa-star"></i>
+                          </div>
+                          <div class="testimonial-quote"><img class="img-fluid" src="images/quote-icon-01.png" alt="" /></div>
+                          <div class="testimonial-content">
+                            <p>The IT-Hub database has been one of our current sources for recruitment, backed by a very experienced team who would go out of their way to make sure that requests are taken ahead.</p>
+                          </div>
+                          <div class="testimonial-author">
+                            <div class="author-info">
+                              <h6 class="author-name">Joanna williams</h6>
+                              <span class="author-position">Consultant</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="testimonial-wrapper testimonial-style-2">
+                          <div class="testimonial-ratings">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-regular fa-star"></i>
+                          </div>
+                          <div class="testimonial-quote"><img class="img-fluid" src="images/quote-icon-01.png" alt="" /></div>
+                          <div class="testimonial-content">
+                            <p>The IT-Hub database has been one of our current sources for recruitment, backed by a very experienced team who would go out of their way to make sure that requests are taken ahead.</p>
+                          </div>
+                          <div class="testimonial-author">
+                            <div class="author-info">
+                              <h6 class="author-name">Anne Smith</h6>
+                              <span class="author-position">Officer</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="testimonial-wrapper testimonial-style-2">
+                          <div class="testimonial-ratings">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-regular fa-star"></i>
+                          </div>
+                          <div class="testimonial-quote"><img class="img-fluid" src="images/quote-icon-01.png" alt="" /></div>
+                          <div class="testimonial-content">
+                            <p>The IT-Hub database has been one of our current sources for recruitment, backed by a very experienced team who would go out of their way to make sure that requests are taken ahead.</p>
+                          </div>
+                          <div class="testimonial-author">
+                            <div class="author-info">
+                              <h6 class="author-name">John Doe</h6>
+                              <span class="author-position">Director</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <!--=================================
+          Our Testimonial -->
